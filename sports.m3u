@@ -1,0 +1,360 @@
+#EXTM3U
+#PLAYLIST:Checked by CODECS.COM M3U Checker
+
+#EXTINF:-1,DAZN2
+https://stream1.freetv.fun/dazn-sport-2-1.ctv
+
+#EXTINF:-1,BTV World
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1,BTV Sangsad
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1,DD Sports 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1,BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,GO Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1,Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+#EXTINF:-1,Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1,TSN 1
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1,FOX 4K
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1,Sporza
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+
+#EXTINF:-1,Caze TV HD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1,Caze TV Brazil 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1,TUDN SPORTS HD
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
+
+#EXTINF:-1,TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1,DSPORTS
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+#EXTINF:-1,TVP Sports FHD
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1,DAZN HDR
+https://fhd60fps-by-opensourecflix.exmax.workers.dev/index.m3u8
+
+#EXTINF:-1,Super Sports
+https://xtream.lazyspace.online/uplink/play/741566/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1,Fussball TV 1
+https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1,BEIN SPORTS MAX 1 HD
+https://xtream.lazyspace.online/uplink/play/744517/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1,BEIN SPORTS MAX 2 HD
+https://xtream.lazyspace.online/uplink/play/744518/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1,SuperSports World Cup Central
+https://xtream.lazyspace.online/uplink/play/745149/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1,SuperSports World Cup Pass
+https://xtream.lazyspace.online/uplink/play/745195/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/745202/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1,W-SPORTS
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
+#EXTINF:-1,FOXSPORTS
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1,FOXSPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1,FOXSPORTS 3
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1,FOXSPORTS PREMIUM
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1,Tap Sports
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#EXTINF:-1,Premiere Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1,Premiere Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1,Premiere Sports 3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1,Premiere Sports 4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTINF:-1,Premiere Sports 5
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+
+#EXTINF:-1,SportTV 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1,SportTV 3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1,BEIN SPORTS 1
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1,BEIN SPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1,BEIN SPORTS 3
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1,BeIN Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,BeIN Sports Español
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1,SKY NEWS NOW
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1,REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1,IDMANTV 🇹🇷
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,2TV Sport 🇳🇴
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1,FANCODE
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1,FANCODE
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1,FANCODE
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+
+#EXTINF:-1,Unknown
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1,DAZN FAST+
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+#EXTINF:-1,DAZN COMBAT
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1,Quran
+https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
+
+#EXTINF:-1,RAJDHANI TV
+https://sm-monirul.top/toffee/play/rajdhani_tv.m3u8
+
+#EXTINF:-1,FOX NY
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+
+#EXTINF:-1,FOX 11 Green Bay WI (WLUK)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+
+#EXTINF:-1,Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+
+#EXTINF:-1,Bein Xtra (720)
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+
+#EXTINF:-1,FOX Sports (720)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+
+#EXTINF:-1,Caze TV (720)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+
+#EXTINF:-1,Fubo Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1,FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+
+#EXTINF:-1,FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
+
+#EXTINF:-1,GCTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8
+
+#EXTINF:-1,Horse & Country
+https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORTS Ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,CAZE TV 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1,BEIN Sports 1 1080P
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1,BEIN Sports 2 1080P
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1,BEIN Sports 3 1080P
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1,BEIN Sports 4 1080P
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1,BEIN Sports 5 1080P
+https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+
+#EXTINF:-1,Red Bull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1,BEIN SPORTS 1 Turkey
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1,BEIN SPORTS 2 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1,BEIN SPORTS 3 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1,BEIN SPORTS 4 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1,RS News
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
+
+#EXTINF:-1,RS Sports 1
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+
+#EXTINF:-1,RS Sports 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+
+#EXTINF:-1,RS Sports 3
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+
+#EXTINF:-1,RS Sports 4
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+
+#EXTINF:-1,RS Sports 5
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+
+#EXTINF:-1,RS TV
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
+
+#EXTINF:-1,RS News Web
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+
+#EXTINF:-1,RS PREMIERE
+https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
+
+#EXTINF:-1,RS PREMIERE 2
+https://video03.logicahost.com.br/rspremiere2/rspremiere2/playlist.m3u8
+
+#EXTINF:-1,RS PREMIERE 3
+https://video03.logicahost.com.br/rspremiere3/rspremiere3/playlist.m3u8
+
+#EXTINF:-1,RS PREMIERE 4
+https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
+
+#EXTINF:-1,DEPORTE - Eliminatorias Concacaf
+https://dto4p9su9kcif.cloudfront.net/out/v1/45b4d7be5ac64a83bdfdca7b683b40b5/index.m3u8
+
+#EXTINF:-1,DEPORTE - Eliminatorias Concacaf (2)
+https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/index.m3u8
+
+#EXTINF:-1,DEPORTE - Eliminatorias Concacaf (3)
+https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/index.m3u8
+
+#EXTINF:-1,DEPORTE - Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1,DEPORTE - Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
+
+#EXTINF:-1,🇬🇧 REAL MADRID TV - English (Oficial)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1,BEIN SPORTS XTRA
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
+
+#EXTINF:-1,CLARO SPORTS
+https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
+
+#EXTINF:-1,Azteca 7a
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,✔️ Bein Sports Xtra ñ *2
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,MTR Sports-1 🇬🇧
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1,FX SPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1,FX PREM
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1,Суспільне Kiev Спорт HD 🇺🇦
+https://tva.in.ua/live/susp-sport.m3u8
+
+#EXTINF:-1,Sportdigital 🇩🇪
+https://jmp2.uk/stvp-ATAJ0500433A
+
+#EXTINF:-1,Turkmenistan Sport 🇹🇲
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1,SPORT ITALIA 🇮🇹
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+
+#EXTINF:-1,TR Sport (480p) 🇮🇹
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1,L`Equipe 🇫🇷
+https://jmp2.uk/stvp-FR200016Y5
+
+#EXTINF:-1,MASR 🇶🇦
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1,Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1,Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+
+#EXTINF:-1,Azteca 7
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
+#EXTINF:-1,FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1,Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+
+#EXTINF:-1,Hub Sports 5 HD
+https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/148162.ts
+
