@@ -1,5 +1,16 @@
 #EXTM3U
 #PLAYLIST:Live TV Pro
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+
+
 #EXTINF:-1 tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="Z Bangla sonar Low" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Z Bangla sonar",Z Bangla sonar Low
